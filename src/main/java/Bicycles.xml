@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bicycles>
+    <model>
+        <name>Mountain Bike</name>
+        <price>500</price>
+        <quantity>10</quantity>
+    </model>
+    <model>
+        <name>Road Bike</name>
+        <price>800</price>
+        <quantity>5</quantity>
+    </model>
+    <model>
+        <name>City Bike</name>
+        <price>300</price>
+        <quantity>8</quantity>
+    </model>
+    <model>
+        <name>Electric Bike</name>
+        <price>1200</price>
+        <quantity>3</quantity>
+    </model>
+    <discounted_model>
+        <name>Hybrid Bike</name>
+        <price>900</price>
+        <quantity>2</quantity>
+        <discount>10</discount>
+    </discounted_model>
+    <used_model>
+        <name>BMX Bike</name>
+        <price>200</price>
+        <quantity>4</quantity>
+        <condition>Good</condition>
+    </used_model>
+</bicycles>
